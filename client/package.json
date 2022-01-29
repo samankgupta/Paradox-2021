@@ -14,7 +14,7 @@
     "filename-regex": "^2.0.1",
     "gsap": "^3.6.0",
     "http2": "^3.3.7",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "quart": "^0.5.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.2",
